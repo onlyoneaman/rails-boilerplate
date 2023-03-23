@@ -31,3 +31,24 @@
 
 en:
   hello: "Hello world"
+  messages:
+    hello: "Hello world"
+    not_found: 'Not Found'
+    welcome: "Welcome to my website"
+    goodbye: "Goodbye"
+    ok: "ok"
+  errors:
+    unauthorized: "Unauthorized to access"
+    bad_request:
+      params_missing: "Missing Params"
+      title: "Bad Request"
+    internal_server_error:
+      title: "Internal Server Error"
+    unprocessable_entity:
+      title: "UnProcessable Entity"
+    not_found:
+      title: "Record Not Found"
+    unauthorised:
+      title: "Unauthorised"
+    forbidden:
+      title: "Forbidden"
