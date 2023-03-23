@@ -1,0 +1,21 @@
+DB_HOST: "localhost"
+LOCAL_DB_HOST: "localhost"
+DB_USER: 'aman'
+DB_PASSWORD: 'password'
+POOL: '30'
+DATABASE: 'ava'
+DB_PORT: "25060"
+LOCAL_DB_PORT: "5432"
+
+LOCAL_DB_PASSWORD: 'password'
+
+DB_STATEMENT_TIMEOUT: "15000ms"
+TEST_DB: "test_ava"
+
+APP_NAME: 'ava'
+SERVER_TIME_OUT: '250'
+SECRET_KEY_BASE: 'NcRfUjXn2r5u8x/A?D*G-adwnajnwjdanwjnawn&E)H+Yp3s6v9y$B&E)H@McQfTjWmZq4t7w!z%C*F-/A?D(G+KbPe/B?D(G+KbPeShVmYq3t6w9z$C&F)H@McQfTjWnZr4'
+
+EXPIRY_DATE_TIME: '336'
+
+JWT_SECRET: 'q3s6v9y$B&E)H@McQfTjWnZr4u7w!z%C'
